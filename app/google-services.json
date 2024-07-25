@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156426733773",
+    "project_id": "contactsmania-d1701",
+    "storage_bucket": "contactsmania-d1701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156426733773:android:c1dc108d59264fdc918184",
+        "android_client_info": {
+          "package_name": "com.muhasib.contactsmania"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjenTgW11oN4Ovsq6mZalQtD-ZShYhOKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
